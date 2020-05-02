@@ -208,11 +208,10 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	}
 
 	#banner nav ul {list-style: none; margin: 0 auto 0 auto; width: auto;}
-	#banner nav li {float: left; display: inline; margin: 0,0,0,0;}
+	#banner nav li {float: left; display: inline; margin: 0,0,0,0;background: #808080;}
 
 	#banner nav a:link, #banner nav a:visited {
 		color: #fff;
-		background: #808080;
 		display: inline-block;
 		height: 30px;
 		padding: 5px 1.5em;

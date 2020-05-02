@@ -270,7 +270,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	background: #fff;
 	margin-bottom: 2em;
 	overflow: hidden;
-	padding: 20px 20px;
+	padding: 0px 0px;
 	width: auto;
 
 	border-radius: 10px;

@@ -19,9 +19,9 @@
 body {
     background: #F5F4EF;
     color: #000305;
-    font-size: 87.5%; /* Base font size: 14px */
+    font-size: 100%; /* Base font size: 14px */
     font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    line-height: 1.429;
+    line-height: 1.6;
     margin: 0;
     padding: 0;
     text-align: left;
@@ -200,7 +200,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 		margin: 0 auto 2em auto;
 		padding: 0;
 		text-align: center;
-		width: 100%;
+		width: 800px;
 
 		border-radius: 5px;
 		-moz-border-radius: 5px;
@@ -242,7 +242,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 20px;
-	width: 100%;
+	width: 760px;
 
 	border-radius: 10px;
 	-moz-border-radius: 10px;
@@ -271,7 +271,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 20px 20px;
-	width: 100%;
+	width: 760px;
 
 	border-radius: 10px;
 	-moz-border-radius: 10px;
@@ -360,7 +360,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	overflow: hidden;
 	padding: 20px;
 	text-align: left;
-	width: 100%;
+	width: 760px;
 
 	border-radius: 10px;
 	-moz-border-radius: 10px;

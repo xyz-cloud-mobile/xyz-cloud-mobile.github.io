@@ -5,37 +5,44 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2020-05-03T13:22:08-00:00</lastmod>
+<lastmod>2020-05-04T10:25:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2020-05-03T13:22:08-00:00</lastmod>
+<lastmod>2020-05-04T10:25:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2020-05-03T13:22:08-00:00</lastmod>
+<lastmod>2020-05-04T10:25:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/authors.html</loc>
-<lastmod>2020-05-03T13:22:08-00:00</lastmod>
+<lastmod>2020-05-04T10:25:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2020-05-03T13:22:08-00:00</lastmod>
+<lastmod>2020-05-04T10:25:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
+</url>
+
+<url>
+<loc>/zhongguotongshi04-jieji.html</loc>
+<lastmod>2020-05-04T10:20:00+00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
 </url>
 
 <url>
@@ -61,21 +68,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/category/li-shi.html</loc>
-<lastmod>2020-05-03T13:20:00+00:00</lastmod>
+<lastmod>2020-05-04T10:20:00+00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tag/lu-si-mian.html</loc>
-<lastmod>2020-05-03T13:20:00+00:00</lastmod>
+<lastmod>2020-05-04T10:20:00+00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tag/zhong-guo-tong-shi.html</loc>
-<lastmod>2020-05-03T13:20:00+00:00</lastmod>
+<lastmod>2020-05-04T10:20:00+00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/tag/jie-ji.html</loc>
+<lastmod>2020-05-04T10:20:00+00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -96,7 +110,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/author/anon.html</loc>
-<lastmod>2020-05-03T13:20:00+00:00</lastmod>
+<lastmod>2020-05-04T10:20:00+00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
